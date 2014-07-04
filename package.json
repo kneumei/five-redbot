@@ -1,0 +1,29 @@
+{
+  "name": "five-redbot",
+  "version": "0.0.1",
+  "description": "Use Johnny-five to control your sparkfun redbot",
+  "main": "lib/RedbotMotor.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/kneumei/five-redbot.git"
+  },
+  "keywords": [
+    "arduino",
+    "robot",
+    "sparkfun",
+    "redbot",
+    "johnny-five"
+  ],
+  "author": {
+    "name": "Kyle Neumeier",
+    "email": "kneumei@gmail.com"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kneumei/five-redbot/issues"
+  },
+  "homepage": "https://github.com/kneumei/five-redbot",
+  "dependencies": {
+    "johnny-five": "~0.7.49"
+  }
+}
